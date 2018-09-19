@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537315071 source:c:\users\jessica\dropbox\abc\algoritmo abc\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<time.h>
+	<random>
+	<chrono>
+	<graphics.h>
+	"lib.h"
+
+1537315071 c:\users\jessica\dropbox\abc\algoritmo abc\lib.h
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<time.h>
+	<random>
+	<chrono>
+	<graphics.h>
+	<fstream>
+
